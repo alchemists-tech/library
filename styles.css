@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+
+button {
+    border: 1 px solid black;
+    border-radius: 20px;
+    width: fit-content;
+    color: aquamarine;
+    background-color: black;
+    font-weight: 700;
+}
